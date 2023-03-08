@@ -131,7 +131,7 @@ html, body {
 
 .j {
   height: 300px;
-  width: 100%;
+  width: 100%; 
   background-image: url(../assest/img/j.jpg);
   background-size: cover;    
   transform: scale(1);
@@ -142,13 +142,13 @@ html, body {
 }
 
 .profesional-color{
-  background: linear-gradient(157deg, rgb(221, 157, 255) 0%, rgba(45,227,253,1) 100%);;
+  background: linear-gradient(157deg, rgb(221, 157, 255) 0%, rgba(45,227,253,1) 100%);
   -webkit-background-clip: text;
   color: transparent; 
 }
 
 .mis-servicios-color{
-  background: linear-gradient(#fd7a2e,#fca573);
+  background: linear-gradient(157deg, rgb(221, 157, 255) 0%, rgba(45,227,253,1) 100%);
   -webkit-background-clip: text;
   color: transparent; 
 }
